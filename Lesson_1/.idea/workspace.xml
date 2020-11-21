@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e852ca1-528e-4709-bfc2-5f7d5db34df6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hUp4dbqM34rn9wrB4WoW2JykJi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpServer" />
+      <module name="server14" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="Application.HttpServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e852ca1-528e-4709-bfc2-5f7d5db34df6" name="Default Changelist" comment="" />
+      <created>1600075334954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600075334954</updated>
+      <workItem from="1600075338996" duration="7228000" />
+      <workItem from="1600191240965" duration="1754000" />
+      <workItem from="1600199075144" duration="694000" />
+      <workItem from="1600421729585" duration="361000" />
+      <workItem from="1600422287673" duration="397000" />
+      <workItem from="1600431372916" duration="4915000" />
+      <workItem from="1601652711015" duration="892000" />
+      <workItem from="1602177973818" duration="4382000" />
+      <workItem from="1602245996644" duration="1669000" />
+      <workItem from="1602277698627" duration="1063000" />
+      <workItem from="1602280142498" duration="359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1094" height="496" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600076882532">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="93" y="93" width="1094" height="496" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.682@0.0.1280.682" timestamp="1600076882532" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1600422420782">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.682@0.0.1280.682" timestamp="1600422420782" />
+    <state width="1236" height="162" key="GridCell.Tab.0.bottom" timestamp="1602227237760">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="162" key="GridCell.Tab.0.bottom/0.0.1280.682@0.0.1280.682" timestamp="1602227237760" />
+    <state width="1236" height="162" key="GridCell.Tab.0.center" timestamp="1602227237759">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="162" key="GridCell.Tab.0.center/0.0.1280.682@0.0.1280.682" timestamp="1602227237759" />
+    <state width="1236" height="162" key="GridCell.Tab.0.left" timestamp="1602227237759">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="162" key="GridCell.Tab.0.left/0.0.1280.682@0.0.1280.682" timestamp="1602227237759" />
+    <state width="1236" height="162" key="GridCell.Tab.0.right" timestamp="1602227237760">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="162" key="GridCell.Tab.0.right/0.0.1280.682@0.0.1280.682" timestamp="1602227237760" />
+    <state width="1236" height="198" key="GridCell.Tab.1.bottom" timestamp="1600192995181">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="198" key="GridCell.Tab.1.bottom/0.0.1280.682@0.0.1280.682" timestamp="1600192995181" />
+    <state width="1236" height="198" key="GridCell.Tab.1.center" timestamp="1600192995181">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="198" key="GridCell.Tab.1.center/0.0.1280.682@0.0.1280.682" timestamp="1600192995181" />
+    <state width="1236" height="198" key="GridCell.Tab.1.left" timestamp="1600192995181">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="198" key="GridCell.Tab.1.left/0.0.1280.682@0.0.1280.682" timestamp="1600192995181" />
+    <state width="1236" height="198" key="GridCell.Tab.1.right" timestamp="1600192995181">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="198" key="GridCell.Tab.1.right/0.0.1280.682@0.0.1280.682" timestamp="1600192995181" />
+    <state x="456" y="274" key="ReplaceDuplicatesPrompt" timestamp="1600434086208">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="456" y="274" key="ReplaceDuplicatesPrompt/0.0.1280.682@0.0.1280.682" timestamp="1600434086208" />
+    <state x="93" y="93" width="1094" height="496" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600199196372">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="93" y="93" width="1094" height="496" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.682@0.0.1280.682" timestamp="1600199196372" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1602280499066">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.682@0.0.1280.682" timestamp="1602280499066" />
+    <state x="371" y="96" width="538" height="499" key="extract.method.dialog" timestamp="1600434082199">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="371" y="96" width="538" height="499" key="extract.method.dialog/0.0.1280.682@0.0.1280.682" timestamp="1600434082199" />
+    <state x="81" y="65" key="new project wizard" timestamp="1600422450036">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="81" y="65" key="new project wizard/0.0.1280.682@0.0.1280.682" timestamp="1600422450036" />
+  </component>
+</project>

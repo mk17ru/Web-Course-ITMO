@@ -1,0 +1,12 @@
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\WpApplication.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\controller\UsersPage.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\controller\EnterPage.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\controller\RegisterPage.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\controller\IndexPage.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\service\UserService.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\controller\Page.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\form\UserCredentials.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\domain\User.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\form\validator\UserCredentialsEnterValidator.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\form\validator\UserCredentialsRegisterValidator.java
+C:\Users\Mikhail\Documents\WEB\lesson_8\L\src\main\java\ru\itmo\wp\repository\UserRepository.java
