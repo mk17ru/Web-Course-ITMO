@@ -1,1 +1,1 @@
-# Web
+# Web Course ITMO University
