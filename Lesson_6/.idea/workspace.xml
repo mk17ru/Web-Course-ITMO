@@ -5,8 +5,63 @@
       <artifact name="lesson6:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="10970918-8578-4907-978d-6c79f55682bb" name="Default Changelist" comment="" />
+    <list default="true" id="10970918-8578-4907-978d-6c79f55682bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson_10/.idea/Lesson_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_11/lesson11/.idea/lesson11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_11/lesson11/frontend/.idea/frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_11/lesson11/untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_11/lesson11/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_11/lesson11/untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_9/wp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_8/L/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_8/L/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/resources/templates/NewNoticePage.ftlh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_4/lesson4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_4/lesson4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lesson6/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/lesson6/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_7/src/main/java/ru/itmo/wp/web/page/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_7/src/main/java/ru/itmo/wp/web/page/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/controller/EnterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/controller/EnterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/controller/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/controller/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/controller/UserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/controller/UserPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/controller/UsersPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/controller/UsersPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/domain/Notice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/domain/Notice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/form/NoticeCredentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/form/NoticeCredentials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/form/validator/UserCredentialsEnterValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/form/validator/UserCredentialsEnterValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/repository/NoticeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/repository/NoticeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/service/NoticeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/service/NoticeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/java/ru/itmo/wp/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/resources/templates/UsersPage.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/resources/templates/UsersPage.ftlh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/src/main/resources/templates/commons.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/src/main/resources/templates/commons.ftlh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/controller/EnterPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/controller/EnterPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/controller/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/controller/Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/controller/UserPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/controller/UserPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/controller/UsersPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/controller/UsersPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/domain/Notice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/domain/Notice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/form/NoticeCredentials.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/form/NoticeCredentials.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/form/validator/UserCredentialsEnterValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/form/validator/UserCredentialsEnterValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/repository/NoticeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/repository/NoticeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/service/NoticeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/service/NoticeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/ru/itmo/wp/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/templates/UsersPage.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/templates/UsersPage.ftlh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_8/L/target/classes/templates/commons.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_8/L/target/classes/templates/commons.ftlh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +79,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -35,18 +93,20 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1jZGLSyR9KIB3VKtnlxWOMv2Jav" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../optimization-course" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -129,13 +189,6 @@
       </method>
     </configuration>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/homeworks" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -153,6 +206,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -182,165 +236,14 @@
       <workItem from="1605270424314" duration="2808000" />
       <workItem from="1605275139820" duration="1758000" />
       <workItem from="1605802010898" duration="268000" />
+      <workItem from="1614726641754" duration="212000" />
+      <workItem from="1614727251737" duration="519000" />
+      <workItem from="1614759215106" duration="127000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604004214786">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.682@0.0.1280.682" timestamp="1604004214786" />
-    <state x="446" y="41" key="#com.intellij.ide.util.MemberChooser" timestamp="1605219858786">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="446" y="41" key="#com.intellij.ide.util.MemberChooser/0.0.1280.682@0.0.1280.682" timestamp="1605219858786" />
-    <state x="438" y="225" width="424" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605259253395">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="438" y="225" width="424" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.682@0.0.1280.682" timestamp="1605259253395" />
-    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1605268096172">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.682@0.0.1280.682" timestamp="1605268096172" />
-    <state width="844" height="164" key="GridCell.Tab.-1.bottom" timestamp="1605207812635">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="164" key="GridCell.Tab.-1.bottom/0.0.1280.682@0.0.1280.682" timestamp="1605207812635" />
-    <state width="844" height="164" key="GridCell.Tab.-1.center" timestamp="1605207812635">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="164" key="GridCell.Tab.-1.center/0.0.1280.682@0.0.1280.682" timestamp="1605207812635" />
-    <state width="844" height="164" key="GridCell.Tab.-1.left" timestamp="1605207812635">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="164" key="GridCell.Tab.-1.left/0.0.1280.682@0.0.1280.682" timestamp="1605207812635" />
-    <state width="844" height="164" key="GridCell.Tab.-1.right" timestamp="1605207812635">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="164" key="GridCell.Tab.-1.right/0.0.1280.682@0.0.1280.682" timestamp="1605207812635" />
-    <state width="834" height="168" key="GridCell.Tab.0.bottom" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.0.bottom/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.0.center" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.0.center/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.0.left" timestamp="1605276899049">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.0.left/0.0.1280.682@0.0.1280.682" timestamp="1605276899049" />
-    <state width="834" height="168" key="GridCell.Tab.0.right" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.0.right/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.1.bottom" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.1.bottom/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.1.center" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.1.center/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.1.left" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.1.left/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.1.right" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.1.right/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.2.bottom" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.2.bottom/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.2.center" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.2.center/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.2.left" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.2.left/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="834" height="168" key="GridCell.Tab.2.right" timestamp="1605276899050">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="834" height="168" key="GridCell.Tab.2.right/0.0.1280.682@0.0.1280.682" timestamp="1605276899050" />
-    <state width="844" height="233" key="GridCell.Tab.3.bottom" timestamp="1605216391687">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="233" key="GridCell.Tab.3.bottom/0.0.1280.682@0.0.1280.682" timestamp="1605216391687" />
-    <state width="844" height="233" key="GridCell.Tab.3.center" timestamp="1605216391687">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="233" key="GridCell.Tab.3.center/0.0.1280.682@0.0.1280.682" timestamp="1605216391687" />
-    <state width="844" height="233" key="GridCell.Tab.3.left" timestamp="1605216391687">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="233" key="GridCell.Tab.3.left/0.0.1280.682@0.0.1280.682" timestamp="1605216391687" />
-    <state width="844" height="233" key="GridCell.Tab.3.right" timestamp="1605216391687">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="233" key="GridCell.Tab.3.right/0.0.1280.682@0.0.1280.682" timestamp="1605216391687" />
-    <state width="844" height="279" key="GridCell.Tab.4.bottom" timestamp="1604671248032">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="279" key="GridCell.Tab.4.bottom/0.0.1280.682@0.0.1280.682" timestamp="1604671248032" />
-    <state width="844" height="279" key="GridCell.Tab.4.center" timestamp="1604671248032">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="279" key="GridCell.Tab.4.center/0.0.1280.682@0.0.1280.682" timestamp="1604671248032" />
-    <state width="844" height="279" key="GridCell.Tab.4.left" timestamp="1604671248032">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="279" key="GridCell.Tab.4.left/0.0.1280.682@0.0.1280.682" timestamp="1604671248032" />
-    <state width="844" height="279" key="GridCell.Tab.4.right" timestamp="1604671248032">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="279" key="GridCell.Tab.4.right/0.0.1280.682@0.0.1280.682" timestamp="1604671248032" />
-    <state width="844" height="396" key="GridCell.Tab.5.bottom" timestamp="1604052530038">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="396" key="GridCell.Tab.5.bottom/0.0.1280.682@0.0.1280.682" timestamp="1604052530038" />
-    <state width="844" height="396" key="GridCell.Tab.5.center" timestamp="1604052530038">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="396" key="GridCell.Tab.5.center/0.0.1280.682@0.0.1280.682" timestamp="1604052530038" />
-    <state width="844" height="396" key="GridCell.Tab.5.left" timestamp="1604052530037">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="396" key="GridCell.Tab.5.left/0.0.1280.682@0.0.1280.682" timestamp="1604052530037" />
-    <state width="844" height="396" key="GridCell.Tab.5.right" timestamp="1604052530038">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state width="844" height="396" key="GridCell.Tab.5.right/0.0.1280.682@0.0.1280.682" timestamp="1604052530038" />
-    <state x="456" y="274" key="ReplaceDuplicatesPrompt" timestamp="1604646309937">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="456" y="274" key="ReplaceDuplicatesPrompt/0.0.1280.682@0.0.1280.682" timestamp="1604646309937" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1605204832586">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.682@0.0.1280.682" timestamp="1605204832586" />
-    <state x="557" y="183" width="538" height="499" key="extract.method.dialog" timestamp="1605272392753">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="557" y="183" width="538" height="499" key="extract.method.dialog/0.0.1280.682@0.0.1280.682" timestamp="1605272392753" />
-    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1605216589053">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.682@0.0.1280.682" timestamp="1605216589053" />
-    <state x="297" y="146" key="run.anything.popup" timestamp="1604765483360">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="297" y="146" key="run.anything.popup/0.0.1280.682@0.0.1280.682" timestamp="1604765483360" />
-    <state x="303" y="3" width="672" height="678" key="search.everywhere.popup" timestamp="1605271504227">
-      <screen x="0" y="0" width="1280" height="682" />
-    </state>
-    <state x="303" y="3" width="672" height="678" key="search.everywhere.popup/0.0.1280.682@0.0.1280.682" timestamp="1605271504227" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

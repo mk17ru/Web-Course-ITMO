@@ -2,10 +2,13 @@ package ru.itmo.wp.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.ModelAttribute;
+import ru.itmo.wp.domain.Notice;
 import ru.itmo.wp.domain.User;
+import ru.itmo.wp.service.NoticeService;
 import ru.itmo.wp.service.UserService;
 
 import javax.servlet.http.HttpSession;
+import java.util.List;
 
 public class Page {
     private static final String USER_ID_SESSION_KEY = "userId";
@@ -14,10 +17,19 @@ public class Page {
     @Autowired
     private UserService userService;
 
+    @Autowired
+    private NoticeService noticeService;
+
     @ModelAttribute("user")
     public User getUser(HttpSession httpSession) {
         return userService.findById((Long) httpSession.getAttribute(USER_ID_SESSION_KEY));
     }
+
+    @ModelAttribute("notices")
+    public List<Notice> getNotices() {
+        return noticeService.findAll();
+    }
+
 
     @ModelAttribute("message")
     public String getMessage(HttpSession httpSession) {

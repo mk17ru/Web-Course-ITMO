@@ -19,6 +19,7 @@ public class Notice {
 
     @NotNull
     @NotEmpty
+    @Lob
     private String content;
 
     @CreationTimestamp

@@ -6,7 +6,47 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a88c91-cf2a-49ce-bebe-53a37fe13afb" name="Default Changelist" comment="" />
+    <list default="true" id="40a88c91-cf2a-49ce-bebe-53a37fe13afb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lesson_7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson_9/wp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_8/L/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_8/L/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/resources/templates/NewNoticePage.ftlh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson_7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson_7/src/main/java/ru/itmo/wp/web/page/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson_7/src/main/java/ru/itmo/wp/web/page/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/controller/EnterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/controller/EnterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/controller/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/controller/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/controller/UserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/controller/UserPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/controller/UsersPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/controller/UsersPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/domain/Notice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/domain/Notice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/form/NoticeCredentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/form/NoticeCredentials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/form/validator/UserCredentialsEnterValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/form/validator/UserCredentialsEnterValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/repository/NoticeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/repository/NoticeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/service/NoticeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/service/NoticeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/java/ru/itmo/wp/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/resources/templates/UsersPage.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/resources/templates/UsersPage.ftlh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/src/main/resources/templates/commons.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/src/main/resources/templates/commons.ftlh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/controller/EnterPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/controller/EnterPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/controller/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/controller/Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/controller/UserPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/controller/UserPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/controller/UsersPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/controller/UsersPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/domain/Notice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/domain/Notice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/form/NoticeCredentials.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/form/NoticeCredentials.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/form/validator/UserCredentialsEnterValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/form/validator/UserCredentialsEnterValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/repository/NoticeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/repository/NoticeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/service/NoticeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/service/NoticeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/ru/itmo/wp/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/templates/UsersPage.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/templates/UsersPage.ftlh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson_8/L/target/classes/templates/commons.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson_8/L/target/classes/templates/commons.ftlh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +77,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -56,6 +99,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1isKXiDRYzwX58H6YgiASEHFEVo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -259,11 +303,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -287,6 +326,7 @@
       <workItem from="1603384081030" duration="5543000" />
       <workItem from="1603453855799" duration="4203000" />
       <workItem from="1603464355989" duration="244000" />
+      <workItem from="1607693452303" duration="15000" />
     </task>
     <servers />
   </component>

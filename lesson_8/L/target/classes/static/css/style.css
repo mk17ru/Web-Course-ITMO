@@ -75,7 +75,7 @@ header nav ul li a {
 
 .middle {
     margin-top: 1rem;
-    overflow: auto;
+    display: flow-root;
 }
 
 aside {

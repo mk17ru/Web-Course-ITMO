@@ -17,8 +17,8 @@ public class UserPage extends Page {
         this.userService = userService;
     }
 
-    @GetMapping("user/{id:[0-9]+}")
-    public String user(Model model, @PathVariable String id) {
+    @GetMapping("user/{id}")
+    public String user(Model model, @Pattern(regexp = "[0-9]+", message = "Expected numbers") @PathVariable String id) {
         User user = null;
         try {
            user = userService.findById(Long.parseLong(id));

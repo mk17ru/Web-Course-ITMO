@@ -14,6 +14,7 @@ import ru.itmo.wp.service.UserService;
 
 import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
+import java.util.Objects;
 
 @Controller
 public class EnterPage extends Page {
@@ -27,11 +28,17 @@ public class EnterPage extends Page {
 
     @InitBinder
     public void initBinder(WebDataBinder binder) {
-        binder.addValidators(userCredentialsEnterValidator);
+        if (userCredentialsEnterValidator.supports(Objects.requireNonNull(binder.getTarget()).getClass())) {
+            binder.addValidators(userCredentialsEnterValidator);
+        }
     }
 
+
     @GetMapping("/enter")
-    public String register(Model model) {
+    public String register(Model model,  HttpSession httpSession) {
+        if (getUser(httpSession) != null) {
+            return "redirect:";
+        }
         model.addAttribute("enterForm", new UserCredentials());
         return "EnterPage";
     }

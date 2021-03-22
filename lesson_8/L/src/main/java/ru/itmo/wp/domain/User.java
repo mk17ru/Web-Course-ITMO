@@ -22,9 +22,14 @@ public class User {
     @NotEmpty
     private String login;
 
+    private boolean disabled = false;
 
     @CreationTimestamp
     private Date creationTime;
+
+    public boolean isDisabled() {
+        return disabled;
+    }
 
     public long getId() {
         return id;
@@ -48,6 +53,14 @@ public class User {
 
     public void setCreationTime(Date creationTime) {
         this.creationTime = creationTime;
+    }
+
+    public boolean getDisabled() {
+        return disabled;
+    }
+
+    public void setDisabled(boolean disabled) {
+        this.disabled = disabled;
     }
 
 }

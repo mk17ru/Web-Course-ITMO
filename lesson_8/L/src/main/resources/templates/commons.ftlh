@@ -1,5 +1,7 @@
 <#-- @ftlvariable name="user" type="ru.itmo.wp.domain.User" -->
+<#-- @ftlvariable name="notice" type="ru.itmo.wp.domain.Notice" -->
 <#-- @ftlvariable name="message" type="java.lang.String" -->
+<#-- @ftlvariable name="notices" type="ru.itmo.wp.domain.Notice[]" -->
 <#import "/spring.ftl" as spring/>
 <#macro page>
 <!DOCTYPE html>
@@ -36,23 +38,25 @@
         <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/users/all">Users</a></li>
+            <#if user??><li><a href="/notice">New notice</a></li></#if>
         </ul>
     </nav>
 </header>
 <div class="middle">
     <aside>
-        <section>
-            <div class="header">
-                Pay attention
-            </div>
-            <div class="body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ducimus enim facere impedit nobis,
-                nulla placeat quam suscipit unde voluptatibus.
-            </div>
-            <div class="footer">
-                <a href="#">View all</a>
-            </div>
-        </section>
+    <#list notices as notice>
+            <section>
+                <div class="header">
+                    ${notice.id}
+                </div>
+                <div class="body">
+                    ${notice.content}
+                </div>
+                <div class="footer">
+                    ${notice.creationTime}
+                </div>
+            </section>
+    </#list>
     </aside>
     <main>
         <#nested/>
